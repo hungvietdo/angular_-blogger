@@ -1,0 +1,287 @@
+{
+ "kind": "blogger#postList",
+ "nextPageToken": "CgkIChiAk6zssioQ0dD-i5_z1Mof",
+ "items": [
+  {
+   "kind": "blogger#post",
+   "id": "1346633306282528752",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-05-21T00:00:00+07:00",
+   "updated": "2016-05-21T00:00:04+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDYzNzYzNjA0MjczCm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/05/shit-corp-eight-year-review-bua-quan.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/1346633306282528752",
+   "title": "Shit-corp eight-year review: Bựa Quán tám-niên báocáo",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "1271",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/1346633306282528752/comments"
+   },
+   "labels": [
+    "Thông-báo"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "6011912675930951196",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-05-10T23:00:00+07:00",
+   "updated": "2016-05-11T00:12:11+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDYyOTAwMzMxMjEzCm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/05/westerners-format-congthuc-taybuong.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/6011912675930951196",
+   "title": "Westerners format: Côngthức tâybương",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "649",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/6011912675930951196/comments"
+   },
+   "labels": [
+    "Tùy-bút"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8560472834252629926",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-04-27T00:00:00+07:00",
+   "updated": "2016-04-27T19:20:42+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDYxNzU5NjQyMjQ5Cm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/04/price-vs-place-vs-brand.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/8560472834252629926",
+   "title": "Price vs place vs brand",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "426",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/8560472834252629926/comments"
+   },
+   "labels": [
+    "*Kinh-tế"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7286633111779171478",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-04-22T23:00:00+07:00",
+   "updated": "2016-04-22T23:00:04+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDYxMzQwODA0OTg5Cm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/04/valuation-and-investing-dinhgia-va-dautu-2.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/7286633111779171478",
+   "title": "Valuation and investing: Địnhgiá và đầutư #2",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "137",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/7286633111779171478/comments"
+   },
+   "labels": [
+    "*Kinh-tế"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "8349523066006420505",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-04-15T00:00:00+07:00",
+   "updated": "2016-04-15T00:00:03+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDYwNjUzMjAzODA3Cm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/04/valuation-and-investing-dinhgia-va-dautu.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/8349523066006420505",
+   "title": "Valuation and investing: Địnhgiá và đầutư",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "349",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/8349523066006420505/comments"
+   },
+   "labels": [
+    "*Kinh-tế"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7436345103480240514",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-04-01T19:00:00+07:00",
+   "updated": "2016-04-11T22:09:42+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDYwMzg3MzgyNDc5Cm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/04/online-purchase-muatau-online.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/7436345103480240514",
+   "title": "Online purchase: Muatậu online",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "1245",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/7436345103480240514/comments"
+   },
+   "labels": [
+    "*Giáo-dục"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "7924376366977255907",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-03-30T23:30:00+07:00",
+   "updated": "2016-04-11T22:12:18+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDYwMzg3NTM4NjM3Cm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/03/escapes-daonguc.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/7924376366977255907",
+   "title": "Escapes: Đàongục",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "125",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/7924376366977255907/comments"
+   },
+   "labels": [
+    "*Lịch-sử"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3339993578697698562",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-03-25T17:00:00+07:00",
+   "updated": "2016-04-11T22:13:52+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDYwMzg3NjMyNDc0Cm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/03/under-ghost-gioi-day.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/3339993578697698562",
+   "title": "Under ghost: Giời đày",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "664",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/3339993578697698562/comments"
+   },
+   "labels": [
+    "Tùy-bút"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3864685891994931078",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-03-08T00:00:00+07:00",
+   "updated": "2016-03-08T00:00:09+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDU3MzcwMDA5OTMwCm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/03/marry-wife-cuoi-vo.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/3864685891994931078",
+   "title": "Marry wife: Cưới vợ",
+   "author": {
+    "id": "g100626896760942102650",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06324965406194061835",
+    "image": {
+     "url": "//lh5.googleusercontent.com/--ZCZ7gtr-TM/AAAAAAAAAAI/AAAAAAAAADU/6iOeamjgFt8/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "1780",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/3864685891994931078/comments"
+   },
+   "labels": [
+    "Tùy-bút"
+   ]
+  },
+  {
+   "kind": "blogger#post",
+   "id": "3978323524158931937",
+   "blog": {
+    "id": "2275817107352430673"
+   },
+   "published": "2016-02-29T22:00:00+07:00",
+   "updated": "2016-03-08T22:31:59+07:00",
+   "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/dGltZXN0YW1wOiAxNDU3NDUxMTE5MDc0Cm9mZnNldDogMjUyMDAwMDAK\"",
+   "url": "http://an-hoang-trung-tuong-2014.blogspot.com/2016/02/pop-shu-nhotoan-binhdan-2.html",
+   "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/3978323524158931937",
+   "title": "Pop shù: Nhotoán bìnhdân #2",
+   "author": {
+    "id": "g117038910383115453153",
+    "displayName": "An Hoang Trung Tuong",
+    "url": "https://www.blogger.com/profile/06344674862451687914",
+    "image": {
+     "url": "//lh5.googleusercontent.com/-E3r04U-PNxI/AAAAAAAAAAI/AAAAAAAAEEM/oqnyFOdrOaw/s35-c/photo.jpg"
+    }
+   },
+   "replies": {
+    "totalItems": "678",
+    "selfLink": "https://www.googleapis.com/blogger/v3/blogs/2275817107352430673/posts/3978323524158931937/comments"
+   },
+   "labels": [
+    "*Triết-học"
+   ]
+  }
+ ],
+ "etag": "\"GtyIIQmNmmUjEA0nwhSqMElCJ1g/MjAxNi0wNS0yMFQxNzowMDowNC4yNzNa\""
+}

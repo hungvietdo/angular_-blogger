@@ -1,0 +1,53 @@
+<section class="artistpage">
+	
+<!-- 	<div class="search">
+		<h1>
+			Artist Directory </h1>
+			<label>
+				Search:
+			</label>
+			<input placeholder="Search for artists" autofocus>
+			<label class="formgroup">By:</label>
+			<select ng-model="artistOrder">
+				
+				<option  value="name">Name</option>
+				<option  value="reknown">Reknown</option>
+			</select>
+
+			<label class="formgroup">Asseding 
+				<input type="radio" ng-model="direction" name="direction" checked>
+			</label>
+			<label class="formgroup">Desceding 
+				<input type="radio" ng-model="direction" name="direction" value="reverse">
+			</label>
+	</div>
+ -->
+
+<div class="artistlist">{{message}}</div>
+
+ <div class="artistlist">{{nextPageToken}}
+ 	<a href="#/list/{{nextPageToken}}" class="btn btn-right">&gt;</a>
+ </div>
+ 
+		
+	<ul class="artistlist">
+		<li class "artist cf" ng-repeat="item in artists">
+
+				<div class="info">
+					
+					<a href="#/details/{{item.id}}">
+					<p>
+						{{item.title}}
+						{{item.id }}
+					</p>
+					</a>
+					<a href="#/comment/{{item.id}}">
+					<p>Show comment</p>
+					</a>
+				</div>
+			
+
+		</li>
+	</ul>
+</section>
+

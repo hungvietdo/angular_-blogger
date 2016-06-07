@@ -1,0 +1,38 @@
+<section class="artistinfo">
+	<div class="artist cf" ng-model="artists">
+		
+		<!-- <a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+		<a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
+		 -->
+	<!-- <div  class="info" > {{message}} </div>	 -->
+	</div>
+
+
+
+
+<!-- 	<div  class="info"  ng-bind-html="renderHtml(body)"> </div> -->
+
+	<ul class="artistlist">
+		<a href="index.html">&laquo; Back to homepage</a>
+		<li class "artist cf" ng-repeat="item in comments">
+
+				<div class="info">
+					
+					<!-- <a href="#/details/{{item.id}}"> -->
+					<p>
+					<div  class="info"  ng-bind-html="renderHtml(item.content)"> </div>
+
+						
+						<!-- {{item.author.displayName}} -->
+					</p>
+					<!-- </a> -->
+					
+				</div>
+			
+
+		</li>
+	</ul>
+
+
+	<a href="index.html">&laquo; Back to homepage</a>
+</section>
