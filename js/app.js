@@ -22,6 +22,10 @@ myApp.config(['$routeProvider', function($routeProvider)
 	 	templateUrl: 'partials/comment.html',
 	 	controller: 'CommentController'
 	 }).
+	 when('/comment/:itemId/nextPage/:nextPageToken',{
+	 	templateUrl: 'partials/comment.html',
+	 	controller: 'CommentController'
+	 }).
 	otherwise({
 		redirectTo:'/list'
 	});

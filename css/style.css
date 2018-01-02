@@ -284,7 +284,7 @@ a.small {
 .artist info {
   display: block;
   float: left;
-  padding-left: 120px !important;
+  padding-left: 20px !important;
 }
 
 .artist:last-child {
@@ -313,7 +313,7 @@ a.small {
 }
 
 .artistinfo img {
-  width: 40%;
+  width: 100%;
   max-width: 630px;
   border-radius: 20px;
 }
